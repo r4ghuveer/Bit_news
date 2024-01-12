@@ -1,6 +1,6 @@
 
 
-[![Video](https://raw.githubusercontent.com/r4ghuveer/Bit_news/main/Bit_news.mp4)
+[![Video](https://raw.githubusercontent.com/r4ghuveer/Bit_news/master/Bit_news.mp4)
 
 # Getting Started with Create React App
 
