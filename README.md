@@ -1,6 +1,6 @@
 
-file:///home/r4ghuveer/Videos/Screencasts/Bit_news.webm
 
+[![Video](https://raw.githubusercontent.com/r4ghuveer/Bit_news/main/Bit_news.mp4)
 
 # Getting Started with Create React App
 
